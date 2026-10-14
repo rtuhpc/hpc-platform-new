@@ -28,7 +28,7 @@ sys.path.insert(0, os.path.abspath('../source'))
 #
 # needs_sphinx = '1.0'
 
-html_baseurl = '/hpc-platform'
+html_baseurl = '/hpc-platform-new'
 
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
@@ -50,8 +50,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'HPC-NET'
-copyright = '2025, RTU HPC center'
-author = 'ciko'
+copyright = '2026, RTU HPC center'
+author = 'hpc@rtu.lv'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the

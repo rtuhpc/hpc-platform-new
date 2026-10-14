@@ -4,7 +4,7 @@
    table of contents
 
 
-HPC Platform User Guide 
+HPC Platform User Guide [DEVELOPMENT VERSION] 
 =======================
 
 This page provides instructions for using different tools and interfaces available through the High-performance Computing (HPC) platform.

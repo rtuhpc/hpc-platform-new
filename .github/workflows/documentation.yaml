@@ -20,4 +20,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: _build/
           force_orphan: true
-          cname: https://rtuhpc.github.io
+          cname: https://hpc-platforma.hpc-net.lv
